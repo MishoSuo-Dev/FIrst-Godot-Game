@@ -7,3 +7,10 @@ Credits to youtuber, Brackeys, for their full tutorial on Youtube.
 
 This project was made while following
 Link to video: https://www.youtube.com/watch?v=LOhfqjmasi0
+
+Link to Assets: https://brackeysgames.itch.io/brackeys-platformer-bundle
+
+Added Details:
+The only details I have added independently were:
+- Hurt sound when falling off the edge, or when hit by enemy.
+- jumping sound.
